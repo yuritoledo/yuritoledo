@@ -7,13 +7,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-yuriwtoledo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yuriwtoledo@gmail.com)](mailto:yuriwtoledo@gmail.com) ![Test Coverage](https://img.shields.io/badge/test%20coverage-70%25-yellow) :grin:
 
 
-> ### I am moved to improve the relation among humans and machines :robot:
+> ### I am moved to improve the relation among humans👨‍🚀 and machines :robot:
 
-Currently:
+**Currently:**
 - Front End Developer
 - Python learner
 
-Interests:
+**Interests:**
 - Architecture
+- Testing
 - Functional Programing
 - Usability
