@@ -1,3 +1,5 @@
+# Hi stranger 🙋‍♂️
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/yuritoledo/"><img src="https://img.shields.io/badge/-yuritoledo-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="https://medium.com/@yuriwtoledo/"><img src="https://img.shields.io/badge/-@yuriwtoledo-03a57a?style=flat&labelColor=03a57a&logo=Medium"</a>
@@ -10,7 +12,7 @@
 
 
 **Currently:**
-- Front End Developer
+- Front End developer
 - Python learner
 
 **Interests:**
