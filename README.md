@@ -11,7 +11,7 @@
 <h3 align="center">Improving the relation among humans👨‍🚀 and machines :robot:</h3>
 
 **Currently:**
-- Front End developer focused in React, NextJS and serverless
+- Front End developer focused in React, React Native and serverless
 
 **Interests:**
 - Architecture
