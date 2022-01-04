@@ -1,4 +1,4 @@
-<h1 align="center">Hi stranger 🙋‍♂️</h1>
+<h1 align="center">Hi stranger 🙋🏻‍♂️</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuritoledo/"><img src="https://img.shields.io/badge/-yuritoledo-blue?style=flat&logo=Linkedin&logoColor=white"></a>
