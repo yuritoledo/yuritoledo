@@ -11,11 +11,10 @@
 <h3 align="center">Improving the relation among humans👨‍🚀 and machines :robot:</h3>
 
 **Currently:**
-- Front End developer focused in React, React Native and serverless
+- Frontend Tech Lead and Engineer
 
 **Interests:**
-- Architecture
-- Testing
+- Frontend Testing
 - Functional Programing
 - Usability
 - UFO 
