@@ -11,7 +11,7 @@
 <h3 align="center">Improving the relation among humans👨‍🚀 and machines :robot:</h3>
 
 **Currently:**
-- Frontend Engineer Lead @ Foxbox Digital
+- Frontend Engineer @ Zenlist
 
 **Interests:**
 - Frontend Testing
