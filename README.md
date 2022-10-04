@@ -20,4 +20,4 @@
 - UFO 
 - Atmospheric sounds
  
-![Yuri's github stats](https://github-readme-stats.vercel.app/api?username=yuritoledo&show_icons=true&theme=synthwave)
+## ![Yuri's github stats](https://github-readme-stats.vercel.app/api?username=yuritoledo&show_icons=true&theme=synthwave)
