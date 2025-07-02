@@ -11,12 +11,12 @@
 <h3 align="center">Improving the relation among humans👨‍🚀 and machines :robot:</h3>
 
 **Currently:**
-- Frontend Engineer @ Zenlist
+- Frontend Engineer @ A5 Labs
 
 **Interests:**
 - Frontend Testing
+- OSR
 - Functional Programing
-- Usability
+- UX
 - UFO 
-- Atmospheric sounds
- 
+- Dungeon Synth
